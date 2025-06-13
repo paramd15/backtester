@@ -1,0 +1,12 @@
+{
+  "DEMO_simple_sma_6c753c1f_f46d206f": {
+    "symbol": "DEMO",
+    "indicator_name": "simple_sma",
+    "params": {
+      "period": 20
+    },
+    "data_hash": "f46d206faec07c045786fd9985b7710e",
+    "created_at": "2025-06-11T23:05:30.580896",
+    "data_length": 100
+  }
+}
